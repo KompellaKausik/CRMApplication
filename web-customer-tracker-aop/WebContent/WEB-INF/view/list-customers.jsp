@@ -24,6 +24,10 @@
 				   onclick="window.location.href='showFormForAdd'; return false;"
 				   class="add-button"
 			/>
+			<input type="button" value="Logout"
+				   onclick="window.location.href='logout'; return false;"
+				   class="add-button logout"
+			/>
 		
 			<!--  add our html table here -->
 		
